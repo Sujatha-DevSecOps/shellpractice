@@ -1,3 +1,5 @@
 #!/bin/bash
 
 echo "all the variables passed to the script :$@"
+echo "first user
+:$1"
