@@ -5,7 +5,7 @@ NUM2=linux
 SUM=$(($NUM1+$NUM2))
 
 echo "Sum is: $SUM"
-MOVIES=("RRR, varanasi pushpa")
+MOVIES=("RRR" "varanasi" "pushpa")
 
 echo "Movies are : ${MOVIES[@]}"
 echo "First movie: ${MOVIES[0]}"
