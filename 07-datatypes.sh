@@ -2,4 +2,4 @@
 
 MOVIES=("RRR, varanasi pushpa")
 
-echo "Movies are : ${MOVIES [@]}"
+echo "Movies are : ${MOVIES[@]}"
