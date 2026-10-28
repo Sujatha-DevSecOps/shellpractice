@@ -8,5 +8,5 @@ echo "Sum is: $SUM"
 MOVIES=("RRR, varanasi pushpa")
 
 echo "Movies are : ${MOVIES[@]}"
-echo "first movie: ${MOVIES[0]}"
-echo "second movie: ${MOVIES[1]}"
+echo "First movie: ${MOVIES[0]}"
+echo "Second movie: ${MOVIES[1]}"
