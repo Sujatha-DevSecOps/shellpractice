@@ -9,6 +9,6 @@ elif [$NUMBER -eq 20]; then
 
 else
 
-echo "given $NUMBER is lessthan 20"
+   echo "given $NUMBER is lessthan 20"
 
-fi
+fi 
